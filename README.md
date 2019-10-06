@@ -1,7 +1,9 @@
 
 # Jim Christopher
 
-![Profile Picture](https://mvp.microsoft.com/en-us/PublicProfile/Photo/4032573)
+<img src="https://mvp.microsoft.com/en-us/PublicProfile/Photo/4032573"
+     alt="Ruggedly Handsome Profile Picture"
+     width="100" height="100" />
 
 ## Contact
 
@@ -27,7 +29,7 @@ Forward-thinking software and data engineer with 22 years of professional experi
 ## Work
 
 ### Director of Curriculum, [Pluralsight](https://www.pluralsight.com)
-##### 2014-11-01 
+##### 2014-11-01
 
 * Directed the planning and guided operations for the most cost-effective segment of the Pluralsight content library.
 * Increased data author NPS by 7%, reduced time to data course production by 17%, and increased throughput of author contracts by 22% through tractible data-driven processes of curriculum planning.
@@ -37,14 +39,14 @@ Forward-thinking software and data engineer with 22 years of professional experi
 Forecast Data Professional library needs and identify authors appropriate to fill these needs. Curate course proposals and author auditions. Resolving quality and technical issues in course content. Mentoring course authors to improve the learning experience from their courses. Develop curriculum for general learning, certifications, and customer-specific training requirements.
 
 ### Crafter &amp; Proprieter, [Yarn, Hooks, &amp; Love Silly LLC](https://www.etsy.com/shop/YarnHooksNLoveSilly)
-##### 2017-03-01 
+##### 2017-03-01
 
 * Developed ChainOneTurn(tm) software to translate images into filet and colorwork crochet patterns.
 
 Design and sales of custom crochet pieces that incorporate electronics, biosensors, programming, and mathematics.
 
 ### Owner, Code Owls, LLC
-##### 2009-06-01 
+##### 2009-06-01
 
 * Reduced expenses of a large school district by 1.2 million dollars by implementing a cloud-based answer sheet processing system, allowing the district to use inexpensive commodity scanners instead of expensive proprietary scanners.
 * Developed the open source p2f framework, which Microsoft now includes as part of the code base for PowerShell and Azure Cloud Shell. (https://github.com/PowerShell/SHiPS/blob/development/docs/Design.md)
@@ -89,19 +91,19 @@ Develop Internet-aware application components to support industry-leading optica
 ## Volunteer
 
 ### Volunteer, [Charlotte-Mecklenburg Schools](https://www.wearecms.com/)
-##### 2008-08-01 
+##### 2008-08-01
 
 
 Provide teaching assistance, in-class mentoring, technology application, and fundraising
 
 ### Carpenter, Framer, [Habitat for Humanity](https://www.habitat.org/)
-##### 2012-01-01 
+##### 2012-01-01
 
 
 Build houses for families in need.
 
 ### Organizer, [Charlotte PowerShell Users Group](https://www.meetup.com/Charlotte-PowerShell-Users-Group/)
-##### 2008-01-01 
+##### 2008-01-01
 
 
 Fund and organize local PowerShell user group activities.
@@ -159,7 +161,7 @@ Authored chapter on the psake build system.
 
 Conference talk providing insights into leveraging machine learning to augment human processes.
 
-### Automating SSIS Package Development and Management with BIPS - SQL Saturday 
+### Automating SSIS Package Development and Management with BIPS - SQL Saturday
 
 Conference presentation on the BIPS open source project.
 
@@ -225,4 +227,3 @@ Magazine article outlining how to extend the windows scripting environment with 
 * Tiny Houses (construction, off-grid living)
 * Fiction Writing (novels)
 * Music (guitar, ukelele, live concerts)
-
