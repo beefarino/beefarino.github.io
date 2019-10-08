@@ -1,7 +1,9 @@
 
 # Jim Christopher
 
-![Profile Picture](https://mvp.microsoft.com/en-us/PublicProfile/Photo/4032573)
+<img src="https://mvp.microsoft.com/en-us/PublicProfile/Photo/4032573"
+     alt="Ruggedly Handsome Profile Picture"
+     width="100" height="100" />
 
 ## Contact
 
