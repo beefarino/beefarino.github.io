@@ -1,9 +1,7 @@
 
 # Jim Christopher
 
-<img src="https://mvp.microsoft.com/en-us/PublicProfile/Photo/4032573"
-     alt="Ruggedly Handsome Profile Picture"
-     width="100" height="100" />
+![Profile Picture](https://mvp.microsoft.com/en-us/PublicProfile/Photo/4032573)
 
 ## Contact
 
@@ -19,8 +17,8 @@ Phone: 980.322.9231
 ## Profiles
 
 [github - beefarino](https://github.com/beefarino)  
-[Twitter - beefarino](https://twitter.com/beefarino)  
-[LinkedIn - jim-christopher](https://www.linkedin.com/in/jim-christopher-3344462)  
+[twitter - beefarino](https://twitter.com/beefarino)  
+[linkedin - jim-christopher](https://www.linkedin.com/in/jim-christopher-3344462)  
 
 ## Summary
 
@@ -29,27 +27,27 @@ Forward-thinking software and data engineer with 22 years of professional experi
 ## Work
 
 ### Director of Curriculum, [Pluralsight](https://www.pluralsight.com)
-##### 2014-11-01
+##### 2014-11-01 
 
-* Directed the planning and guided operations for the most cost-effective segment of the Pluralsight content library.
-* Increased data author NPS by 7%, reduced time to data course production by 17%, and increased throughput of author contracts by 22% through tractible data-driven processes of curriculum planning.
-* Developed systems to support data-driven role and skill planning, including application of natural language processing and machine learning.
-* Developed in-house data literacy curriculum for Content teams.
+* Direct planning and operations for the most cost-effective segment of the Pluralsight content library.
+* Grow data author NPS by 7%, reduced time to data course production by 17%, and increased throughput of author contracts by 22% through tractible data-driven processes of curriculum planning.
+* Support data-driven role and skill planning using web scraping, data mining, natural language processing, and machine learning.
+* Develop in-house data literacy curriculum for Content teams.
 
-Forecast Data Professional library needs and identify authors appropriate to fill these needs. Curate course proposals and author auditions. Resolving quality and technical issues in course content. Mentoring course authors to improve the learning experience from their courses. Develop curriculum for general learning, certifications, and customer-specific training requirements.
+Forecast Data Professional library needs and identify authors appropriate to fill these needs. Curate course proposals and author auditions. Resolve quality and technical issues in course content. Mentor course authors to improve the learning experience from their courses. Develop curriculum for general learning, certifications, and customer-specific training requirements.
 
 ### Crafter &amp; Proprieter, [Yarn, Hooks, &amp; Love Silly LLC](https://www.etsy.com/shop/YarnHooksNLoveSilly)
-##### 2017-03-01
+##### 2017-03-01 
 
-* Developed ChainOneTurn(tm) software to translate images into filet and colorwork crochet patterns.
+* Create the ChainOneTurn application to translate images into filet and colorwork crochet patterns.
 
 Design and sales of custom crochet pieces that incorporate electronics, biosensors, programming, and mathematics.
 
 ### Owner, Code Owls, LLC
-##### 2009-06-01
+##### 2009-06-01 
 
-* Reduced expenses of a large school district by 1.2 million dollars by implementing a cloud-based answer sheet processing system, allowing the district to use inexpensive commodity scanners instead of expensive proprietary scanners.
-* Developed the open source p2f framework, which Microsoft now includes as part of the code base for PowerShell and Azure Cloud Shell. (https://github.com/PowerShell/SHiPS/blob/development/docs/Design.md)
+* Reduce expenses of a large school district by 1.2 million dollars by implementing a cloud-based answer sheet processing system, allowing the district to use inexpensive commodity scanners.
+* Release the open source p2f framework, which Microsoft now includes as part of the code base for PowerShell and Azure Cloud Shell. (https://github.com/PowerShell/SHiPS/blob/development/docs/Design.md)
 
 Provide contracted software engineering, data engineering, and project management services across highly regulated industries, including gaming, defense, and education.
 
@@ -57,53 +55,53 @@ Provide contracted software engineering, data engineering, and project managemen
 ##### 2005-09-01 - 2010-02-01
 
 * Reduced time and cost of regulatory approval cycles through implementation of data-driven documentation and static code analysis systems.
-* Implemented enterprise-wide application security and file integrity systems, including line-of-sight and monitoring of real-time status.
+* Developed enterprise-wide application security and file integrity systems, including line-of-sight and monitoring of real-time status.
 * Increased automated functional testing coverage to 80% of observed human behavior by developing a domain-specific language for describing poker room activity.
 
-Implement software and services to support automated poker tables and rooms. Research and development. Acting SCM, build master, and Scrum master.
+Implemented software and services to support automated poker tables and rooms. Research and development. Acting SCM, build master, and Scrum master.
 
 ### Senior Integration Engineer, LearningStation, Inc
 ##### 2002-07-01 - 2005-09-01
 
-* Reduced support incidents by 37% by implementing an audit system to log changes to key database entities.
-* Implemented line-of-sight into data integration systems to support SLAs with external vendors.
+* Eliminated 37% of all support incidents through application of automated data audits.
+* Implemented line-of-sight into data integration systems to support 99.9% uptime SLAs with external vendors.
 
-Integrate systems across various education platforms and architectures. Develop SAML-based federated identity service.
+Integrated systems across various education platforms and architectures. Created a SAML-based identity federation service.
 
 ### Software Developer, Convey Systems, Inc
 ##### 2000-12-01 - 2002-07-01
 
-* Increased developer productivity by an average of 4.2 hours a week by automating software component documentation efforts.
-* Reduced response time for support incidents by 15 minutes through centralized real-time logging of field incidents.
+* Added 4.2 hours of average productivity per developer per week by automating software component documentation efforts.
+* Reduced response time for support incidents by 15 minutes through centralized real-time logging.
 
-Develop browser-based communication and collaboration software.
+Developed browser-based communication and collaboration software.
 
 ### Windows &amp; Internet Software Developer, [Breault Research Organization](http://bro.com)
 ##### 1997-12-01 - 2000-01-01
 
-* Increased support team indicent processing capacity by 26% using Internet-enabled application support modules.
-* Increased website traffic by 112% though the application of data-driven behavioral techniques.
-* Maintained Secret clearance.
+* Improved resolution rate of support team by 26% using Internet-enabled application support modules.
+* Increased website traffic by 112% though the application of data-driven behavior analysis.
+* Maintained a Secret clearance.
 
-Develop Internet-aware application components to support industry-leading optical engineering software.
+Created Internet-aware application components to support industry-leading optical engineering software.
 
 
 ## Volunteer
 
 ### Volunteer, [Charlotte-Mecklenburg Schools](https://www.wearecms.com/)
-##### 2008-08-01
+##### 2008-08-01 
 
 
 Provide teaching assistance, in-class mentoring, technology application, and fundraising
 
 ### Carpenter, Framer, [Habitat for Humanity](https://www.habitat.org/)
-##### 2012-01-01
+##### 2012-01-01 
 
 
 Build houses for families in need.
 
 ### Organizer, [Charlotte PowerShell Users Group](https://www.meetup.com/Charlotte-PowerShell-Users-Group/)
-##### 2008-01-01
+##### 2008-01-01 
 
 
 Fund and organize local PowerShell user group activities.
@@ -115,7 +113,7 @@ Fund and organize local PowerShell user group activities.
 ##### 1995-08-01 - 1997-12-01
 GPA: 4.0
 
-### Trinity University - Bachelors in Psychology
+### Trinity University - Bachelors in Cognitive Psychology
 ##### 1991-08-01 - 1995-05-01
 GPA: 3.7
 
@@ -161,7 +159,7 @@ Authored chapter on the psake build system.
 
 Conference talk providing insights into leveraging machine learning to augment human processes.
 
-### Automating SSIS Package Development and Management with BIPS - SQL Saturday
+### Automating SSIS Package Development and Management with BIPS - SQL Saturday 
 
 Conference presentation on the BIPS open source project.
 
@@ -212,8 +210,8 @@ Magazine article outlining how to extend the windows scripting environment with 
 
 ## Skills
 
-* Intermediate in Data Analytics (Python, SQL, pandas, notebooks, statistics, scikit-learn, NLTK, spaCy, D3)
-* Intermediate in Data Engineering (PostgreSQL, SQL Server, MariaDB, MongoDB, neo4j, SQL, Cypher)
+* Intermediate in Data Analytics &amp; Visualization (Python, SQL, pandas, notebooks, statistics, scikit-learn, NLTK, spaCy, D3, Tableau, Power BI)
+* Intermediate in Data Engineering (PostgreSQL, SQL Server, MariaDB, MongoDB, neo4j, SQL, Cypher, Knime, Orange3)
 * Advanced in Software Development (Python, SQL, C#, C++, Javascript, git)
 * Intermediate in Web Development (HTML, CSS, Javascript, D3)
 * Advanced in Scripting &amp; Automation (PowerShell, Python, Javascript, Automation Design, API Design and Development)
@@ -227,3 +225,4 @@ Magazine article outlining how to extend the windows scripting environment with 
 * Tiny Houses (construction, off-grid living)
 * Fiction Writing (novels)
 * Music (guitar, ukelele, live concerts)
+
